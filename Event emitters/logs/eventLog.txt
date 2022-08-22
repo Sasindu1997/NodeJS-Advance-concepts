@@ -1,0 +1,2 @@
+2022-08-22	22:01:09	e54877d9-619a-4e85-87f4-b6cc2c942682	log event emitted.
+2022-08-22	22:01:21	b309a1d6-d4ad-43e9-8440-9dfff7920e5f	log event emitted.
